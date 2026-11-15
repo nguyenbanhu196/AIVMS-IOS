@@ -1,0 +1,21 @@
+{
+  "page": "https://github.com/nguyenbanhu196/AIVMS-IOS/releases/tag/v1.2.6",
+  "tag": "v1.2.6",
+  "built": "2026-11-15T03:09:12.891Z",
+  "supervms": {
+    "version": "1.2.6",
+    "notes": "",
+    "ipa": "https://github.com/nguyenbanhu196/AIVMS-IOS/releases/download/v1.2.6/SuperVMS_v1.2.6_ios.ipa",
+    "ipaSize": 28245524,
+    "web": "https://github.com/nguyenbanhu196/AIVMS-IOS/releases/download/v1.2.6/SuperVMS_v1.2.6_ios_web.json",
+    "webSize": 1072112
+  },
+  "vmsplus": {
+    "version": "1.2.1",
+    "notes": "",
+    "ipa": "https://github.com/nguyenbanhu196/AIVMS-IOS/releases/download/v1.2.6/VMSPlus_v1.2.1_ios.ipa",
+    "ipaSize": 1721049,
+    "web": "https://github.com/nguyenbanhu196/AIVMS-IOS/releases/download/v1.2.6/VMSPlus_v1.2.1_ios_web.json",
+    "webSize": 1170753
+  }
+}
